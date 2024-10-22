@@ -12,6 +12,6 @@ class Bank:
         print(si)
 
 
-# prin=float(input("Enter principle amount:"))
-# n=int(input("Enter number of years:"))
-# Bank.simple_interest(prin,n)
+prin=float(input("Enter principle amount:"))
+n=int(input("Enter number of years:"))
+Bank.simple_interest(prin,n)
