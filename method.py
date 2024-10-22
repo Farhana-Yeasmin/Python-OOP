@@ -10,6 +10,7 @@ class Bank:
     def simple_interest(p,n):
         si = (p*n*Bank.rate_of_interest)/100
         print(si)
+        
 
 prin=float(input("Enter principle amount:"))
 n=int(input("Enter number of years:"))
