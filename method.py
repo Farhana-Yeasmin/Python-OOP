@@ -1,5 +1,5 @@
 """
-Stattic Method: This method perform operations on external data
+Static Method: This method perform operations on external data
 """
 
 class Bank:
