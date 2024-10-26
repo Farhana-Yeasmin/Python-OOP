@@ -22,6 +22,7 @@ obj= Outer()
 in1=obj.Inner()
 # in1.show()
 
+# Example 1
 class Student:
     def __init__(self,name,roll,dd,mm,yy):
         self.name=name 
