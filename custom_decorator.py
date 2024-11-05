@@ -1,6 +1,6 @@
 """
 Decorator: A decorator is a design pattern in python that allows you to modify or eenchance the behavior of func or methods.
-
+This is custom made decorator
 
 Decorator:  Two types decorator
 - Function Decorator
